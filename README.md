@@ -28,12 +28,12 @@ A jornada DevOps de elite aconteceu entre os dias 23 a 27 de janeiro de 2023, ev
       </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula1"><img src="assets/docker.svg" width="100%"></a><br></td>
-        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula2"><img src="assets/kubernetes.svg" width="100%"></a></td>
-        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula3"><img src="assets/terraform.svg" width="100%"></a></td>
-        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula4"><img src="assets/jenkins.svg" width="100%"></a></td>
-        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula5"><img src="assets/prometheus.svg" width="100%"></a>
-        <br><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula5"><img src="assets/grafana.svg" width="100%"></a></td>
+        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula1"><img src="assets/docker.svg" width="2560px"></a><br></td>
+        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula2"><img src="assets/kubernetes.svg" width="2560px"></a></td>
+        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula3"><img src="assets/terraform.svg" width="2560px"></a></td>
+        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula4"><img src="assets/jenkins.svg" width="2560px"></a></td>
+        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula5"><img src="assets/prometheus.svg" width="2560px"></a>
+        <br><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula5"><img src="assets/grafana.svg" width="2560px"></a></td>
     </tr>
   </tbody>
 </table>
