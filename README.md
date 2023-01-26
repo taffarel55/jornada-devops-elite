@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-A jornada DevOps de elite aconteceu entre os dias 23 a 27 de janeiro, evento realizado pelo [DevOps Pro](https://www.devopspro.com.br/) e abordou as seguintes tecnologias:
+A jornada DevOps de elite aconteceu entre os dias 23 a 27 de janeiro de 2023, evento realizado pelo [DevOps Pro](https://www.devopspro.com.br/) e abordou as seguintes tecnologias:
 
 ## 💻 Tecnologias abordadas
 
@@ -28,29 +28,30 @@ A jornada DevOps de elite aconteceu entre os dias 23 a 27 de janeiro, evento rea
       </td>
     </tr>
     <tr>
-        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula1"><img src="assets/docker.svg"></a></td>
-        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula2"><img src="assets/kubernetes.svg"></a></td>
-        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula3"><img src="assets/terraform.svg"></a></td>
-        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula4"><img src="assets/jenkins.svg"></a></td>
-        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula5"><img src="assets/prometheus.svg"></a>
-        <br><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula5"><img src="assets/grafana.svg"></a></td>
+        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula1"><img src="assets/docker.svg" width="100%"></a><br></td>
+        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula2"><img src="assets/kubernetes.svg" width="100%"></a></td>
+        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula3"><img src="assets/terraform.svg" width="100%"></a></td>
+        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula4"><img src="assets/jenkins.svg" width="100%"></a></td>
+        <td><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula5"><img src="assets/prometheus.svg" width="100%"></a>
+        <br><a href="https://github.com/taffarel55/jornada-devops-elite/tree/main/aula5"><img src="assets/grafana.svg" width="100%"></a></td>
     </tr>
   </tbody>
 </table>
 
----
-
 ## 🚀 Lista de conteúdos das aulas
 
-1. [Docker](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula1)
-2. [Kubernetes](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula2)
-3. [Terraform](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula3)
-4. [Jenkins](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula4)
-5. [Prometheus e Grafana](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula5)
+### 1. [Docker](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula1)
+- [Comandos básicos Docker](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula1#comandos-b%C3%A1sicos-docker)
+- [Criação de imagens](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula1#cria%C3%A7%C3%A3o-de-imagens)
+- [Subindo uma imagem para o Dockerhub](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula1#subindo-uma-imagem-para-o-dockerhub)
+- [Construindo uma aplicação Node.js e subindo no Docker Hub](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula1#construindo-uma-aplica%C3%A7%C3%A3o-nodejs-e-subindo-no-docker-hub)
+### 2. [Kubernetes](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula2)
+### 3. [Terraform](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula3)
+### 4. [Jenkins](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula4)
+### 5. [Prometheus e Grafana](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula5)
 
 
 > Algumas imagens do repositório foram obtidas diretamente das aulas do curso Jornada DevOps de Elite oferecido pelo [DevOps Pro](https://www.devopspro.com.br/).
-
 > Códigos fontes foram usados a partir do github do [KubeDev](https://github.com/KubeDev)
 
 ---
@@ -78,7 +79,7 @@ Se quiser "fortalecer" aí sugerindo correções de texto e ortografia ou algum 
 Como alternativa do procedimento anterior, veja o passo a passo com imagens e explicações mais detalhadas de como propor mudanças:
 
 1. [Como bifurcar e clonar um repositório Github](https://docs.github.com/pt/github/getting-started-with-github/quickstart/fork-a-repo)
-2. [Como criar uma bifurcação para propor mudanças](https://docs.github.com/pt/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository)
+2. [Como criar uma bifurcação para propor mudanças](https://docs.github.com/pt/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository)
 3. [Como propor de mudança através de uma bifurcação](https://docs.github.com/pt/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 
 ## 🤝 Pessoas colaboradoras
