@@ -1,0 +1,13 @@
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+*.tfvars.json
+
+# kube config file
+kube_config.yaml
