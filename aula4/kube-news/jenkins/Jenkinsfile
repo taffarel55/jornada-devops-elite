@@ -27,9 +27,11 @@ pipeline {
                 tag_version = "${env.BUILD_ID}"
             }
             steps {
-                withKubeConfig([credentialsId: 'kubeconfig']) {
-                    sh 'sed -i "s/{{TAG}}/$tag_version/g" ./aula4/kube-news/k8s/deployment.yaml'
-                    sh 'kubectl apply -f ./aula4/kube-news/k8s/deployment.yaml'
+                script {
+                    withKubeConfig([credentialsId: 'kubeconfig']) {
+                        sh 'sed -i "s/{{TAG}}/$tag_version/g" ./aula4/kube-news/k8s/deployment.yaml'
+                        sh 'kubectl apply -f ./aula4/kube-news/k8s/deployment.yaml'
+                    }
                 }
                 
             }
