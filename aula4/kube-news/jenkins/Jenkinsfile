@@ -1,0 +1,15 @@
+pipeline {
+    agent any
+
+    stages {
+
+        stage ('Build Docker Image') {
+            steps {
+                script {
+                    dockerapp = docker.build("taffarel55/kube-news:${env.BUILD_ID}", '-f ./aula4/kube-news/src/Dockerfile ./aula4/kube-news/src')
+                }
+            }
+        }
+
+    }
+}
