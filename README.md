@@ -51,6 +51,9 @@ A jornada DevOps de elite aconteceu entre os dias 23 a 27 de janeiro de 2023, ev
 - [Compreendendo os elementos básico dos Kubernetes](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula2#compreendendo-os-elementos-b%C3%A1sico-dos-kubernetes)
 - [Subindo uma aplicação kube-dev](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula2#subindo-uma-aplica%C3%A7%C3%A3o)
 ### 3. [Terraform](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula3)
+- [Intrudução ao Terraform](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula3#introdu%C3%A7%C3%A3o-ao-terraform)
+- [Criando serviços na Digital Ocean](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula3#digital-ocean)
+- [Criando serviços através do Terraform](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula3#terraform)
 ### 4. [Jenkins](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula4)
 ### 5. [Prometheus e Grafana](https://github.com/taffarel55/jornada-devops-elite/tree/main/aula5)
 
