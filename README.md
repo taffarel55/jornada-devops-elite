@@ -11,7 +11,8 @@ A jornada DevOps de elite aconteceu entre os dias 23 a 27 de janeiro de 2023, ev
 <table>
   <tbody>
     <tr>
-      <td align="center">Aula 1 (23/01)<br>
+      <td align="center">Aula 1 (23/01)<br>![image](https://user-images.githubusercontent.com/18634201/215360776-c00af449-c660-46e7-bbbf-0120617776e4.png)
+
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       </td>
       <td align="center">Aula 2 (24/01)<br>
@@ -140,6 +141,6 @@ Ah, fique a vontade para editar este `README.md` te adicionando à lista de pess
 
 <!-- Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE) para mais detalhes. -->
 
-Ainda não tenho certeza qual licença usar uma vez que o conteúdo não é meu :confused:
+Os conteúdos deste repositório foram exclusivamente utilizados da semana DevOps de Elite realizado pelo [DevOps Pro](https://www.devopspro.com.br/) e eu solicitei uma permissão para ester repo. :heart:
 
 [⬆ Voltar ao topo](#inicio)<br>
