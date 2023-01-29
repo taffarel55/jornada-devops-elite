@@ -11,8 +11,7 @@ A jornada DevOps de elite aconteceu entre os dias 23 a 27 de janeiro de 2023, ev
 <table>
   <tbody>
     <tr>
-      <td align="center">Aula 1 (23/01)<br>![image](https://user-images.githubusercontent.com/18634201/215360776-c00af449-c660-46e7-bbbf-0120617776e4.png)
-
+      <td align="center">Aula 1 (23/01)<br>
         <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
       </td>
       <td align="center">Aula 2 (24/01)<br>
