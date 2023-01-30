@@ -67,6 +67,14 @@ A jornada DevOps de elite aconteceu entre os dias 23 a 27 de janeiro de 2023, ev
 > Algumas imagens do repositório foram obtidas diretamente das aulas do curso Jornada DevOps de Elite oferecido pelo [DevOps Pro](https://www.devopspro.com.br/).
 > Códigos fontes foram usados a partir do github do [KubeDev](https://github.com/KubeDev)
 
+<h2 id="topologia">🤯 Topologia da aplicação</h2>
+
+<center>
+
+![Topologia](assets/topologia.png)
+
+</center>
+
 ---
 
 <h2 id="contribuir">📫 Contribuindo para este repositório</h2>
