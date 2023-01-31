@@ -1,0 +1,39 @@
+- name: Instalação Java
+  hosts: jenkins
+  remote_user: root
+  tasks:
+    - name: Instalando o Java
+      ansible.builtin.apt:
+        name: openjdk-11-jdk
+        state: present
+        update_cache: yes
+
+- name: Instalação Jenkins
+  hosts: jenkins
+  remote_user: root
+  tasks:
+    - name: Adicionando a chave do repositório
+      ansible.builtin.apt_key:
+        url: https://pkg.jenkins.io/debian-stable/jenkins.io.key
+        state: present
+
+    - name: Adicionando o repositório
+      ansible.builtin.apt_repository:
+        repo: "deb https://pkg.jenkins.io/debian binary/"
+        state: present
+
+    - name: Instalando o Jenkins
+      ansible.builtin.apt:
+        name: jenkins
+        state: present
+        update_cache: yes
+
+    - name: Obtendo a chave
+      ansible.builtin.command: cat /var/lib/jenkins/secrets/initialAdminPassword
+      register: chave
+
+    - name: Exibir a chave do jenkins
+      ansible.builtin.debug:
+        msg: "{{chave.stdout}}" 
+
+    
